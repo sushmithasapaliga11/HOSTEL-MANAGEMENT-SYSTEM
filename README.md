@@ -1,1 +1,1 @@
-
+<pre lang="nohighlight"><code> HostelWebApp/ ├── WebContent/ │ ├── index.jsp │ ├── studentadd.jsp │ ├── studentupdate.jsp │ ├── studentdelete.jsp │ ├── studentdisplay.jsp │ ├── reports.jsp │ ├── report_form.jsp │ └── report_result.jsp ├── src/ │ ├── com/ │ ├── dao/ │ │ └── HostelDAO.java │ ├── model/ │ │ └── Student.java │ └── servlet/ │ ├── AddStudentServlet.java │ ├── UpdateStudentServlet.java │ ├── DeleteStudentServlet.java │ ├── DisplayStudentsServlet.java │ ├── ReportServlet.java │ └── ReportCriteriaServlet.java └── WEB-INF/ └── web.xml </code></pre>
