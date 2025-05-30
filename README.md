@@ -38,18 +38,18 @@ CREATE TABLE HostelStudents (
  3. Insert Sample Data
 
 INSERT INTO HostelStudents (StudentID, StudentName, RoomNumber, AdmissionDate, FeesPaid, PendingFees) VALUES
-(1, 'Aarav Sharma', 'A101', '2024-01-10', 5000.00, 0.00),
-(2, 'Meera Iyer', 'B202', '2024-02-01', 3000.00, 2000.00),
-(3, 'Rohan Das', 'C303', '2024-03-15', 6000.00, 0.00),
-(4, 'Sana Khan', 'A101', '2024-03-20', 2000.00, 3000.00);
+(1, 'Anu', '1', '2025-01-10', 5000.00, 0.00),
+(2, 'Varsha', '2', '2025-02-01', 3000.00, 2000.00),
+(3, 'Madhu', '3', '2025-03-15', 6000.00, 0.00),
+(4, 'Veena', '1', '2025-03-20', 2000.00, 3000.00);
 
-## ⚙️ Installation & Setup
-### Step 1: Download the Project
+ ⚙️ Installation & Setup
+ Step 1: Download the Project
 Clone or download the project files.
 
 Organize them according to the structure shown above.
 
-### Step 2: Configure the Database
+ Step 2: Configure the Database
 Start your MySQL server.
 
 Run the SQL scripts provided above to create and populate the database.
@@ -61,14 +61,14 @@ Connection conn = DriverManager.getConnection(
     "your_username", 
     "your_password");
 
-### Step 3: Add MySQL JDBC Driver
+ Step 3: Add MySQL JDBC Driver
 Download the MySQL Connector/J
 
 Add the JAR to your project’s WEB-INF/lib directory
 
 If using an IDE like Eclipse, also add it to your project's build path
 
-### Step 4: Deploy to Apache Tomcat
+ Step 4: Deploy to Apache Tomcat
 Create a Dynamic Web Project in Eclipse or any IDE
 
 Import all project files
@@ -77,7 +77,7 @@ Deploy the project to Apache Tomcat
 
 Start the Tomcat server
 
-### Step 5: Run the Application
+ Step 5: Run the Application
 Open a browser and visit:
 
 http://localhost:8080/HostelWebApp/
