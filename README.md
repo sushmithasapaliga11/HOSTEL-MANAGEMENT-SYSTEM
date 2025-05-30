@@ -81,3 +81,20 @@ Start the Tomcat server
 Open a browser and visit:
 
 http://localhost:8080/HostelWebApp/
+
+ Output
+[https://github.com/sushmithasapaliga11/HOSTEL-MANAGEMENT-SYSTEM/blob/f81ad306f02c76eec7399fcc869b841b68e89eb3/Screenshots/Home_page.png]
+
+
+[https://github.com/sushmithasapaliga11/HOSTEL-MANAGEMENT-SYSTEM/blob/f81ad306f02c76eec7399fcc869b841b68e89eb3/Screenshots/Addstudent.png]
+
+
+[https://github.com/sushmithasapaliga11/HOSTEL-MANAGEMENT-SYSTEM/blob/f81ad306f02c76eec7399fcc869b841b68e89eb3/Screenshots/Deletestudent.png]
+
+
+[https://github.com/sushmithasapaliga11/HOSTEL-MANAGEMENT-SYSTEM/blob/f81ad306f02c76eec7399fcc869b841b68e89eb3/Screenshots/Generate_report.png]
+
+
+[https://github.com/sushmithasapaliga11/HOSTEL-MANAGEMENT-SYSTEM/blob/f81ad306f02c76eec7399fcc869b841b68e89eb3/Screenshots/Updatestudent.png]
+
+[https://github.com/sushmithasapaliga11/HOSTEL-MANAGEMENT-SYSTEM/blob/f81ad306f02c76eec7399fcc869b841b68e89eb3/Screenshots/Viewstudents.png]
