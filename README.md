@@ -94,7 +94,7 @@ Add the JAR to your project’s WEB-INF/lib directory
 
 If using an IDE like Eclipse, also add it to your project's build path
 
-Step 4: Deploy to Apache Tomcat
+### Step 4: Deploy to Apache Tomcat
 Create a Dynamic Web Project in Eclipse or any IDE
 
 Import all project files
@@ -103,11 +103,8 @@ Deploy the project to Apache Tomcat
 
 Start the Tomcat server
 
-Step 5: Run the Application
+### Step 5: Run the Application
 Open a browser and visit:
-
-arduino
-Copy code
 http://localhost:8080/Hostel/
 
 ## 📄 Modules & Functionalities
