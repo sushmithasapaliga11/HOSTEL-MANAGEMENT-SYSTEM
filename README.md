@@ -25,7 +25,7 @@ A **web-based Java application** to manage hostel student admissions, room alloc
 CREATE DATABASE IF NOT EXISTS hostel_management;
 USE hostel_management;
 
-### 2. Create Table
+## 2. Create Table
 CREATE TABLE HostelStudents (
     StudentID INT PRIMARY KEY,
     StudentName VARCHAR(100),
