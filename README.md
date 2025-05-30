@@ -80,6 +80,4 @@ Start the Tomcat server
 ### Step 5: Run the Application
 Open a browser and visit:
 
-arduino
-Copy code
 http://localhost:8080/HostelWebApp/
