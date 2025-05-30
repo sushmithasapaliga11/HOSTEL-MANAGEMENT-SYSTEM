@@ -51,11 +51,8 @@ Organize them according to the structure shown above.
 
  Step 2: Configure the Database
 Start your MySQL server.
-
 Run the SQL scripts provided above to create and populate the database.
-
 Update your database credentials in HostelDAO.java:
-
 Connection conn = DriverManager.getConnection(
     "jdbc:mysql://localhost:3306/hostel_management", 
     "your_username", 
@@ -63,18 +60,13 @@ Connection conn = DriverManager.getConnection(
 
  Step 3: Add MySQL JDBC Driver
 Download the MySQL Connector/J
-
 Add the JAR to your project’s WEB-INF/lib directory
-
 If using an IDE like Eclipse, also add it to your project's build path
 
  Step 4: Deploy to Apache Tomcat
 Create a Dynamic Web Project in Eclipse or any IDE
-
 Import all project files
-
 Deploy the project to Apache Tomcat
-
 Start the Tomcat server
 
  Step 5: Run the Application
