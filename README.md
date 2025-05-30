@@ -68,6 +68,8 @@ HostelWebApp/
 └── WEB-INF/
     └── web.xml
 
+    └── web.xml
+
 ### Installation & Setup
 Step 1: Download the Project
 Clone or download the project files.
