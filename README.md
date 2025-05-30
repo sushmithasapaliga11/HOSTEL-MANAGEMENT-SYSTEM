@@ -35,7 +35,7 @@ CREATE TABLE HostelStudents (
 );
 
 ### 3. Insert Sample Data
-sql
+
 INSERT INTO HostelStudents (StudentID, StudentName, RoomNumber, AdmissionDate, FeesPaid, PendingFees) VALUES
 (1, 'Aarav Sharma', 'A101', '2024-01-10', 5000.00, 0.00),
 (2, 'Meera Iyer', 'B202', '2024-02-01', 3000.00, 2000.00),
