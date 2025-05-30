@@ -19,13 +19,13 @@ A **web-based Java application** to manage hostel student admissions, room alloc
 
 ## 🧱 Database Setup
 
-### 1. Create Database
+ 1. Create Database
 
 ```sql
 CREATE DATABASE IF NOT EXISTS hostel_management;
 USE hostel_management;
 
- ### 2. Create Table
+ 2. Create Table
 CREATE TABLE HostelStudents (
     StudentID INT PRIMARY KEY,
     StudentName VARCHAR(100),
@@ -35,7 +35,7 @@ CREATE TABLE HostelStudents (
     PendingFees DECIMAL(10,2)
 );
 
-### 3. Insert Sample Data
+ 3. Insert Sample Data
 
 INSERT INTO HostelStudents (StudentID, StudentName, RoomNumber, AdmissionDate, FeesPaid, PendingFees) VALUES
 (1, 'Aarav Sharma', 'A101', '2024-01-10', 5000.00, 0.00),
