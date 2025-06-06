@@ -78,10 +78,8 @@ http://localhost:8080/HostelWebApp/
  🏠 Home Page
 [Home Page](https://github.com/sushmithasapaliga11/HOSTEL-MANAGEMENT-SYSTEM/blob/27301a6fe01f994d9bfd38a5fae76c2098742473/Screenshots/Home_page.png)
 
-
-
  ➕ Add Student
-[Add Student][(https://github.com/sushmithasapaliga11/HOSTEL-MANAGEMENT-SYSTEM/blob/f81ad306f02c76eec7399fcc869b841b68e89eb3/Screenshots/Addstudent.png?raw=true)]
+[Add Student][https://github.com/sushmithasapaliga11/HOSTEL-MANAGEMENT-SYSTEM/blob/master/Screenshots/Addstudent.png]
 
  ❌ Delete Student
 [Delete Student][(https://github.com/sushmithasapaliga11/HOSTEL-MANAGEMENT-SYSTEM/blob/f81ad306f02c76eec7399fcc869b841b68e89eb3/Screenshots/Deletestudent.png?raw=true)]
