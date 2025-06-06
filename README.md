@@ -76,11 +76,8 @@ http://localhost:8080/HostelWebApp/
 
  Output
  🏠 Home Page
+[Home Page](https://github.com/sushmithasapaliga11/HOSTEL-MANAGEMENT-SYSTEM/blob/27301a6fe01f994d9bfd38a5fae76c2098742473/Screenshots/Home_page.png)
 
-### Add Student Page
-### Add Student Page
-
-![Add Student Page](https://raw.githubusercontent.com/sushmithasapaliga11/HOSTEL-MANAGEMENT-SYSTEM/95fd0a1d2035a8220389c3565c114b2e54adce48/Screenshots/Addstudent.png)
 
 
  ➕ Add Student
