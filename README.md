@@ -78,8 +78,10 @@ http://localhost:8080/HostelWebApp/
  🏠 Home Page
 
 ### Add Student Page
+### Add Student Page
 
-![Add Student Screenshot](https://github.com/sushmithasapaliga11/HOSTEL-MANAGEMENT-SYSTEM/blob/95fd0a1d2035a8220389c3565c114b2e54adce48/Screenshots/Addstudent.png?raw=true)
+![Add Student Page](https://raw.githubusercontent.com/sushmithasapaliga11/HOSTEL-MANAGEMENT-SYSTEM/95fd0a1d2035a8220389c3565c114b2e54adce48/Screenshots/Addstudent.png)
+
 
  ➕ Add Student
 [Add Student][(https://github.com/sushmithasapaliga11/HOSTEL-MANAGEMENT-SYSTEM/blob/f81ad306f02c76eec7399fcc869b841b68e89eb3/Screenshots/Addstudent.png?raw=true)]
